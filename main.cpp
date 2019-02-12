@@ -1,8 +1,6 @@
 #include "src/lib.h"
 #include <iostream>
 #include <string>
-#include <spdlog/spdlog.h>
-#include <spdlog/sinks/stdout_sinks.h>
 
 int main(int argc, char *argv[])
 {
