@@ -1,0 +1,8 @@
+*.o
+*.so
+Makefile
+build/*
+*~
+*.orig
+*.log
+version.h
